@@ -1,4 +1,4 @@
-- 👋 Namstey, I’m @Abhishek8124
+- 🙏 नमस्ते , I’m @Abhishek8124
 - 👀 I’m interested in Data Science and Engineering
 - 🌱 I’m currently learning SQl, Python, Power BI, Excel, Google Sheet, Microsoft Office, CRM
 - 💞️ I’m looking to collaborate on Data Analyst
